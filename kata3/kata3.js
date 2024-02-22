@@ -1,5 +1,5 @@
 function stringCalc(arr){
-    return ""
+    if (arr)
 }
 
 module.exports=stringCalc
